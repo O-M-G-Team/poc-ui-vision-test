@@ -1,0 +1,132 @@
+{
+  "Name": "dup-result",
+  "CreationDate": "2023-11-21",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://paris-organisation-frontend.vercel.app/",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[3]",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[3]/table/tbody/tr[8]/td[11]/a/div/img",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div[2]",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div[3]",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div[2]/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div[2]/div[2]/div[2]",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div[2]/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div[2]/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div[2]/div[2]/div[6]",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div/div/button",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div/div[2]/div[2]",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div[2]/div",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div[2]/div[2]/div[5]",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div/div[2]/button",
+      "Value": "",
+      "Description": ""
+    }
+  ]
+}

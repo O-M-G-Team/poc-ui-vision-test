@@ -1,0 +1,254 @@
+{
+  "Name": "delete-add-btn-func",
+  "CreationDate": "2023-11-21",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://paris-organisation-frontend.vercel.app/",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[3]/table/tbody/tr[22]/td[16]/a/div/img",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[3]/table/tbody/tr[22]/td[16]/a/div/img",
+        "xpath=//tr[22]/td[16]/a/div/img",
+        "css=#root > div > div.sport-table > table > tbody > tr:nth-child(22) > td:nth-child(16) > a > div > img"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div/div",
+        "xpath=//div[2]/div[2]/div[2]/div/div/div/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(1) > div:nth-child(1) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div",
+        "xpath=//div[2]/div/div/div/div[2]/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(1) > div:nth-child(1) > div.dropdown-content > div:nth-child(1)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div/div",
+        "xpath=//div[2]/div[2]/div/div[2]/div/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(2) > div:nth-child(1) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div[2]",
+        "xpath=//div[2]/div/div[2]/div[2]",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(2) > div:nth-child(1) > div.dropdown-content > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div",
+        "xpath=//div[3]/div/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(3) > div:nth-child(1) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div[2]",
+        "xpath=//div[3]/div/div[2]/div[2]",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(3) > div:nth-child(1) > div.dropdown-content > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div/div/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div/div/button",
+        "xpath=//div/div/button",
+        "css=#root > div > div.combine-table > div.result_part > div.btt-con > div.add-btt > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div/div",
+        "xpath=//div[4]/div/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(4) > div:nth-child(1) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div/div[2]/div[3]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div/div[2]/div[3]",
+        "xpath=//div[2]/div[3]",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(4) > div:nth-child(1) > div.dropdown-content > div:nth-child(3)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div[2]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div[2]/div",
+        "xpath=//div[2]/div/div/div[2]/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(1) > div:nth-child(2) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div[2]/div[2]/div[3]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div/div[2]/div[2]/div[3]",
+        "xpath=//div[2]/div[3]",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(1) > div:nth-child(2) > div.dropdown-content > div:nth-child(3)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div",
+        "xpath=//div[2]/div/div[2]/div[2]/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(2) > div:nth-child(2) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div[2]/div[2]",
+        "xpath=//div[2]/div[2]/div[2]/div[2]",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(2) > div:nth-child(2) > div.dropdown-content > div:nth-child(2)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div[2]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div[2]/div",
+        "xpath=//div[3]/div[2]/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(3) > div:nth-child(2) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div[2]/div[2]/div[4]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div[2]/div[2]/div[4]",
+        "xpath=//div[4]",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(3) > div:nth-child(2) > div.dropdown-content > div:nth-child(4)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div[2]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div[2]/div",
+        "xpath=//div[4]/div[2]/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(4) > div:nth-child(2) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div[2]/div[2]/div[5]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[4]/div[2]/div[2]/div[5]",
+        "xpath=//div[5]",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(4) > div:nth-child(2) > div.dropdown-content > div:nth-child(5)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div/div[3]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div/div[3]/button",
+        "xpath=//div[3]/button",
+        "css=#root > div > div.combine-table > div.result_part > div.btt-con > div.delete-btt > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div",
+        "xpath=//div[3]/div/div",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(3) > div:nth-child(1) > div"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div[3]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div[3]",
+        "xpath=//div[2]/div[3]",
+        "css=#root > div > div.combine-table > div.result_part > div.resulttable > div > div:nth-child(3) > div:nth-child(1) > div.dropdown-content > div:nth-child(3)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/div[2]/div/div[2]/button",
+        "xpath=//div[2]/button",
+        "css=#root > div > div.combine-table > div.result_part > div.btt-con > div.save-btt > button"
+      ],
+      "Description": ""
+    }
+  ]
+}
