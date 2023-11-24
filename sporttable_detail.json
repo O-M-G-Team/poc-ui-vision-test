@@ -1,0 +1,80 @@
+{
+  "Name": "sporttable_detail",
+  "CreationDate": "2023-11-24",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://paris-organisation-frontend.vercel.app/",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "xpath=//*[@id=\"root\"]/div/div/div[2]/div/input",
+      "Value": "on",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div/div[2]/div/input",
+        "xpath=//input[@type='checkbox']",
+        "xpath=//input",
+        "css=#root > div > div.navbar > div.container > div > input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div/div[2]/div/input",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div/div[2]/div/input",
+        "xpath=//input[@type='checkbox']",
+        "xpath=//input",
+        "css=#root > div > div.navbar > div.container > div > input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "assertElementPresent",
+      "Target": "xpath=//*[@id=\"root\"]/div/div/div[2]/div/div[2]/ul/li/div/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div/div[2]/div/div[2]/ul/li/div/button",
+        "xpath=//button",
+        "css=#root > div > div.navbar > div.container > div > div.menu > ul > li > div > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "assertElementPresent",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[2]/h1",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[2]/h1",
+        "xpath=//h1",
+        "css=#root > div > div.table-header > h1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "assertElementPresent",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[3]/table/thead/tr/th",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[3]/table/thead/tr/th",
+        "xpath=//th",
+        "css=#root > div > div.sport-table > table > thead > tr > th:nth-child(1)"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "assertElementPresent",
+      "Target": "xpath=//*[@id=\"root\"]/div/div/div/a/h3",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div/div/a/h3",
+        "xpath=//h3",
+        "css=#root > div > div.navbar > div.logo > a > h3"
+      ],
+      "Description": ""
+    }
+  ]
+}

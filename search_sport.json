@@ -1,0 +1,59 @@
+{
+  "Name": "search_sport",
+  "CreationDate": "2023-11-24",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://paris-organisation-frontend.vercel.app/",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "assertElementPresent",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[3]/div/span/input",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[3]/div/span/input",
+        "xpath=//input[@value='']",
+        "xpath=//span/input",
+        "css=#root > div > div.sport-table > div > span > input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[3]/div/span/input",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[3]/div/span/input",
+        "xpath=//input[@value='']",
+        "xpath=//span/input",
+        "css=#root > div > div.sport-table > div > span > input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[3]/div/span/input",
+      "Value": "Bad",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[3]/div/span/input",
+        "xpath=//input[@value='Bad']",
+        "xpath=//span/input",
+        "css=#root > div > div.sport-table > div > span > input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "assertElementPresent",
+      "Target": "xpath=//*[@id=\"root\"]/div/div[3]/table/tbody/tr/td/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"root\"]/div/div[3]/table/tbody/tr/td/div",
+        "xpath=//td/div",
+        "css=#root > div > div.sport-table > table > tbody > tr:nth-child(1) > td:nth-child(1) > div"
+      ],
+      "Description": ""
+    }
+  ]
+}
